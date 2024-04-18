@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "profilepic":"",
+      "name":"admin"
+    },
+    {
+      "empId": "emp001",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "status": "inactive",
+      "id": "h4WZg8l"
+    },
+    {
+      "empId": "emp002",
+      "name": "Edwinkk",
+      "email": "edwin@gmail.com",
+      "status": "inactive",
+      "id": "ZaHWD69"
+    },
+    {
+      "empId": "emp003",
+      "name": "lucy",
+      "email": "lucy@gmail.com",
+      "status": "active",
+      "id": "m6NxV8g"
+    },
+    {
+      "empId": "emp005",
+      "name": "Adhithya",
+      "email": "adhithya@gmail.com",
+      "status": "active",
+      "id": "sqdpFxt"
+    },
+    {
+      "empId": "emp008",
+      "name": "Anagha",
+      "email": "anagha@gmail.com",
+      "status": "inactive",
+      "id": "QgvhgzO"
+    },
+    {
+      "empId": "emp0010",
+      "name": "leooo",
+      "email": "leooo@gmail.com",
+      "status": "inactive",
+      "id": "vvaeHqm"
+    }
+  ]
+}
